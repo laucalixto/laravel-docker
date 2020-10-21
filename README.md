@@ -3,9 +3,11 @@ Desafio Docker
 https://hub.docker.com/r/laucalixto/laravel
 
 2) Golang print Code.education Rocks!
-imagem com 1.39mb
+https://hub.docker.com/r/laucalixto/codeeducation
 
-docker run laucalixto/codeeducation 
+    imagem com 1.39mb
+
+    docker run laucalixto/codeeducation 
 
 laravel-docker
 Full Cycle - Publicando imagem Laravel:v1
