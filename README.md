@@ -1,13 +1,15 @@
 Desafio Docker 
 1) host e porta do nginx podem ser definidos através de variáveis de ambiente no docker-compose.yaml
+
 https://hub.docker.com/r/laucalixto/laravel
 
 2) Golang print Code.education Rocks!
+
 https://hub.docker.com/r/laucalixto/codeeducation
 
-   imagem com 1.39mb
+    imagem com 1.39mb
 
-   docker run laucalixto/codeeducation 
+    docker run laucalixto/codeeducation 
 
 laravel-docker
 Full Cycle - Publicando imagem Laravel:v1
